@@ -1,4 +1,3 @@
-
 <resources>
     <style name="Theme.MPC" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <item name="colorPrimary">#00E5FF</item>
